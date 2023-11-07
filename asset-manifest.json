@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-restaurant01/static/css/main.91fd8819.css",
+    "main.js": "/react-restaurant01/static/js/main.337452d3.js",
+    "static/media/production_id 4694341 (2160p).mp4": "/react-restaurant01/static/media/production_id 4694341 (2160p).a15924e705d1053ef63c.mp4",
+    "static/media/pexels-alesia-kozik-6120246.jpg": "/react-restaurant01/static/media/pexels-alesia-kozik-6120246.2ea49cbf0251c0505f95.jpg",
+    "static/media/pexels-santiago-moreno-9171554.jpg": "/react-restaurant01/static/media/pexels-santiago-moreno-9171554.74e76d98d8fbb1adb024.jpg",
+    "static/media/pexels-karolina-grabowska-6634140.jpg": "/react-restaurant01/static/media/pexels-karolina-grabowska-6634140.9e92847c3980cd7dd02c.jpg",
+    "static/media/chef.jpg": "/react-restaurant01/static/media/chef.60c6bc2934c321fffc58.jpg",
+    "static/media/pexels-tara-winstead-6479548.jpg": "/react-restaurant01/static/media/pexels-tara-winstead-6479548.c8050a903bab95872e02.jpg",
+    "static/media/pexels-aram-diseño-7259052.jpg": "/react-restaurant01/static/media/pexels-aram-diseño-7259052.c0cb3b56c75e169a3303.jpg",
+    "static/media/pexels-charlotte-may-5947020.jpg": "/react-restaurant01/static/media/pexels-charlotte-may-5947020.f2605508414b32b8fb09.jpg",
+    "static/media/pexels-marcos-kohler-17178420.jpg": "/react-restaurant01/static/media/pexels-marcos-kohler-17178420.ea0f42106af17907e2c3.jpg",
+    "static/media/pexels-rey-10194405.jpg": "/react-restaurant01/static/media/pexels-rey-10194405.1b3e472f86497dd7033a.jpg",
+    "index.html": "/react-restaurant01/index.html",
+    "main.91fd8819.css.map": "/react-restaurant01/static/css/main.91fd8819.css.map",
+    "main.337452d3.js.map": "/react-restaurant01/static/js/main.337452d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91fd8819.css",
+    "static/js/main.337452d3.js"
+  ]
+}
